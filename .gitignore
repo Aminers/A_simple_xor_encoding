@@ -1,0 +1,6 @@
+*.ipch
+*.db
+*.idb
+*.pdb
+*.log
+Debug/
